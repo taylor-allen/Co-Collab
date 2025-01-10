@@ -1,5 +1,5 @@
 
-# Co-Collab: A Communication Tool for Families
+# Co-Collab: Family Communication Made Easier
 
 Co-Collab is designed to bridge the communication gap between family members managing the lives of their children. Whether you're co-parenting, working with child custody lawyers, or navigating busy schedules, Co-Collab helps streamline communication, track important events, and ensure everyone stays informed.
 
